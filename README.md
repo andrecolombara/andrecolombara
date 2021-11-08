@@ -24,7 +24,7 @@
   &nbsp;
   <img align="center" alt="Deco-PHP" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   &nbsp;
-  <img align="right" alt="Deco-pic" height="250" style="border-radius:50px;" src="https://i.ibb.co/TTYwZQQ/Avatar-Maker.png" alt="Avatar-Maker" border="0"></a>
+  <img align="right" alt="Deco-pic" height="200" style="border-radius:50px;" src="https://i.ibb.co/TTYwZQQ/Avatar-Maker.png" alt="Avatar-Maker" border="0"></a>
 </div>
   
   ##
