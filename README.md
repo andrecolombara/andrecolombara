@@ -1,33 +1,70 @@
-## Oi, eu sou o André e eu tenho um plano 😎
+<img align="right" width="250px" style="margin-top:-10px" src="https://i.ibb.co/dmcC2kr/avatoon-hi.png" alt="avatoon-hi" border="0">
 
+</br>
+</br>
 
-<div align="center">
-  <a href="https://github.com/andrecolombara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrecolombara&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecolombara&layout=compact&langs_count=7&theme=monokai"/>
+<div dsplay="inline-block">
+ <h1 align="left">André Luiz Bahls Colombara</h1>
+<div>
+  
+<a href="https://www.linkedin.com/in/andrecolombara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://instagram.com/colombara.andre" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:colombara.andre@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+</div>
+
+<br><br><br><br><br><br>
+
+## Hello, World! 🚀
+<p align="center">
+  Eu sou o André, tenho 36 anos, moro em Presidente Prudente beeeeem no interior de São Paulo e decidi agora, aos 43' do 2 Tempo que quero ser um Desenvolvedor. Loucura? Talvez,   mas não vejo a hora de descobrir. Minha intenção é ser um excelente Front-end, por isso estou estudando e praticando muito. Bring it on!
+</p>
+
 <br><br>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Deco-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Deco-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Deco-JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Deco-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  <img align="center" alt="Deco-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Deco-Vue" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Deco-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Deco-PHP" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="right" alt="Deco-pic" height="200" style="border-radius:50px;" src="https://i.ibb.co/TTYwZQQ/Avatar-Maker.png" alt="Avatar-Maker" border="0"></a>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif" width="450">
+</p>
+
+<br><hr>
+
+<div display="inline-block">
+  <p align="left">☕ Coffe Lover;</p>
+  <p align="left">👨‍👨‍👧‍👦 Casado, Pai do Bernardo e do Gabriel;</p>
+  <p align="left">🎶⚽ Músico frustrado e Palmeirense fanático;</p>
+  <p align="left">🤡 Adepto das piadas ruins para ambientação;</p>
 </div>
-  
-  ##
-  
-<br>
+
+<hr>
 
 <div>
-  <a href="https://www.linkedin.com/in/andrecolombara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:colombara.andre@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/colombara.andre" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+<img align="right" width="250px" style="margin-top:-10px" src="https://i.ibb.co/H7MFX0W/avatoon-look.png" alt="avatoon-look" border="0">
+<br>
+  <p>🖥️ O que eu estou aprendendo:</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+ &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+ &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<div>
 
+<br><br>
+  
+<div>
+  <p>📘 O que eu ainda vou aprender:</p>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+ &nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+ &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
+<br><br>
+<div>
+
+
+##
+<p align="center">
+<a href="https://github.com/andrecolombara">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andrecolombara&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andrecolombara&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
