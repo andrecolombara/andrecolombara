@@ -31,8 +31,9 @@
 <div display="inline-block">
   <p align="left">☕ Coffe Lover;</p>
   <p align="left">👨‍👨‍👧‍👦 Casado, Pai do Bernardo e do Gabriel;</p>
-  <p align="left">🎶⚽ Músico frustrado e Palmeirense fanático;</p>
   <p align="left">🤡 Adepto das piadas ruins para ambientação;</p>
+  <p align="left">🎶⚽ Músico frustrado e Palmeirense fanático;</p>
+  
 </div>
 
 <hr>
@@ -46,6 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+ &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 <div>
 
 <br><br>
