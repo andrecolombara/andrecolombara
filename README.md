@@ -17,7 +17,7 @@
 
 ## Hello, World! 🚀
 <p align="center">
-  Eu sou o André, tenho 36 anos, moro em Presidente Prudente beeeeem no interior de São Paulo e decidi agora, aos 43' do 2 Tempo que quero ser um Desenvolvedor. Loucura? Talvez,   mas não vejo a hora de descobrir. Minha intenção é ser um excelente Front-end, por isso estou estudando e praticando muito. Bring it on!
+  Eu sou o André, tenho 36 anos, moro em Presidente Prudente beeeeem no interior de São Paulo e decidi agora, aos 43' do 2 Tempo que quero ser um Desenvolvedor. Loucura? Talvez,   mas não vejo a hora de descobrir. Minha intenção é ser um excelente Desenvolvedor Full-stack, por isso estou estudando e praticando muito. Bring it on!
 </p>
 
 <br><br>
@@ -55,11 +55,9 @@
   
 <div>
   <p>📘 O que eu ainda vou aprender:</p>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
- &nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
 <br><br>
 <div>
 
