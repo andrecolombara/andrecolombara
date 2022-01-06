@@ -1,25 +1,23 @@
-###👋 Olá, meu nome é André,
-#### e eu sou um Desenvolvedor Front-end
-![e eu sou um Desenvolvedor Front-end](https://pbs.twimg.com/profile_banners/45830546/1637676619/1500x500)
+<h1 align="center">Olá, eu sou o André Colombara</h1>
+<h3 align="center">um Desenvolvedor Front-end</h3>
 
-Profissional com mais de 20 anos de experiência na área comercial, migrando de carreira para Programação e Desenvolvimento Web/Mobile.
-Faço absolutamente tudo à base de música. Gosto de cantar, mas não aprendi. Gosto de codar e estou aprendendo. Gosto de pessoas e me especializei em lidar com elas, gosto de máquinas e estou aprendendo a lidar com elas.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrecolombara&label=Profile%20views&color=0e75b6&style=flat" alt="andrecolombara" /> </p>
 
-- 🔭 Atualmente sou estagiário na DropC 
-- 🌱 Estou estudando e me aprimorando em Javascript e React
+<p align="left"> <a href="https://twitter.com/colombarasep" target="blank"><img src="https://img.shields.io/twitter/follow/colombarasep?logo=twitter&style=for-the-badge" alt="colombarasep" /></a> </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andrecolombara)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andrecolombara/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/colombara.andre/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/colombarasep)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/colombarasep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="colombarasep" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andrecolombara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrecolombara" height="30" width="40" /></a>
+<a href="https://instagram.com/colombara.andre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="colombara.andre" height="30" width="40" /></a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=andrecolombara)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrecolombara)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrecolombara&show_icons=true&locale=en&layout=compact" alt="andrecolombara" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andrecolombara&show_icons=true)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrecolombara&show_icons=true&locale=en" alt="andrecolombara" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=andrecolombara)  
-
-![GitHub metrics](https://metrics.lecoq.io/andrecolombara)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=andrecolombara)  
-
-![Profile views](https://gpvc.arturio.dev/andrecolombara)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrecolombara&" alt="andrecolombara" /></p>
+ 
