@@ -1,5 +1,3 @@
-<h1> Olá, meu nome é André e eu sou um Desenvolvedor Front-end. </h1>
-
 <div>
   <a href="https://instagram.com/colombara.andre" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:colombara.andre@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
