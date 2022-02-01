@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm André Colombara</h1>
-<h3 align="center">A passionate UI/UX Designer and Frontend developer from Brazil</h3>
+<h3 align="center">A passionate student of UI Designer and Frontend development from Brazil</h3>
 
 - 🔭 I’m currently working on **DropC Techmologies**
 
